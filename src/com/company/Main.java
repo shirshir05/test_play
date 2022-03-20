@@ -3,6 +3,6 @@ package com.company;
 public class Main {
     int x = 0;
     //comment
-    public static void main(String[] args) {Main m = new Main();}
-    public void test(){System.out.println("test1");switch (1){}}
+    public static void main(String[] args) {Main m = new Main();m.test();}
+    public void test(){System.out.println("test1");if(x==0){x=1;}System.out.println(x);}
 }
