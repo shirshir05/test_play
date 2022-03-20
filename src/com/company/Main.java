@@ -1,6 +1,7 @@
 package com.company;
 
 public class Main {
+    public class test{}
     int x = 0;
     //comment
     public static void main(String[] args) {Main m = new Main();m.test();}
