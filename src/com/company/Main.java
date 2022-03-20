@@ -4,5 +4,5 @@ public class Main {
     int x = 0;
     //comment
     public static void main(String[] args) {Main m = new Main();m.test();}
-    public void test(){System.out.println("test1");while(x==0){x=1;break;}System.out.println(x);}
+    public void test(){System.out.println("test1");if(x==0){x=1;}System.out.println(x);}
 }
