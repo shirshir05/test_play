@@ -6,7 +6,7 @@ public class Main {
     public static void main(String[] args) {
         Main m = new Main();m.test();
     }
-    public void test(){switch (1){case 2: try {throw new Exception();} catch (Exception e) {;}}}
+    public void test(){ }
 
 }
 
