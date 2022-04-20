@@ -7,5 +7,5 @@ public class Main {
         Main m = new Main();
         m.test();
     }
-    public void test(){ }
+    public void test(){}
 }
