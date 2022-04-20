@@ -6,6 +6,6 @@ public class Main {
     public static void main(String[] args) {
         Main m = new Main();m.test();
     }
-    public void test(){}
-    public void test1(){}
+    public void test(){ }
+
 }
