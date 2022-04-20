@@ -3,7 +3,7 @@ public class Main {
     int x = 0; int y =0;
     public int z=0;
 
-    public static void main(String[] args) {
+    public static void main(String[] args1) {
         Main m = new Main();m.test();
     }
     public void test(){}
