@@ -4,5 +4,5 @@ public class Main {
     public int z=0;
     //comment
     public static void main(String[] args) {Main m = new Main();m.test();}
-    public void test(){}
+    public void test(){while(true){break;}}
 }
