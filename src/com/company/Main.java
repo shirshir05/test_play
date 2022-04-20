@@ -6,7 +6,7 @@ public class Main {
     public static void main(String[] args) {
         Main m = new Main();m.test();
     }
-    public void test(){if(false){}else{}}
+    public void test(){ }
 
 }
 
